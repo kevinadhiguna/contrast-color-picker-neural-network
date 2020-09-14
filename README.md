@@ -1,4 +1,4 @@
-# Color Contrast Picker - Machine Learning
+# Color Contrast Picker - Neural Network
 
 A color picker of text that contrast to background color, trained with Machine Learning using Brain.js library.
 
