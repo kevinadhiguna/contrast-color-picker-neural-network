@@ -13,4 +13,8 @@ Here are how this app looks :
 You can choose the color of text that matches background color. Background color will be generated randomly and you just have to choose either white color or black color that matches the background color.<br><br>
 The `Guess Text` will have color resulted in training data.
 
+## Reference
+
+- [Build Your First Machine Learning AI With Neural Networks by Web Dev Simplified](https://youtu.be/60c4rMq-aH0)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/contrast-color-picker-neural-network)](https://github.com/kevinadhiguna)
